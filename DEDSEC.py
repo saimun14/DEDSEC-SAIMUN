@@ -188,7 +188,7 @@ class Main:
         print(" [02] MY fACEBOOK ACCOUNT  \033[1;35m")
         print(" [00] Exit")        
         Saimun =input(" [?] Choose : ")
-        os.system('xdg-open https://facebook.com/groups/197651524092486/)
+
         if Saimun in ["1", "01"]:
             num()
         if Saimun in ["2","02"]:
